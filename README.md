@@ -7,3 +7,4 @@
 | 2 | [Метчинг для маркетплейса](https://github.com/MaksimShcherbakov/Masterskaya_2) | Прогнозирование целевой переменной для оценки точности модели | python, pandas, numpy, matplotlib, sklearn, faiss |
 | 3 | [Система оценки риска ДТП](https://github.com/MaksimShcherbakov/Assembly_Project_3) | Создание модели, оценивающей риск ДТП по выбранному маршруту водителя | python, sql, pandas, numpy, matplotlib, seaborn, ydata, sklearn, torch, catboost |
 | 4 | [Metal process project](https://github.com/MaksimShcherbakov/MPP) | Оптимизация потребления электроэнергии на этапе обработки стали металлургического комбината | python, sql, pandas, numpy, matplotlib, seaborn, sklearn, catboost, optuna |
+| 5 | [Toxic comments detecton model](https://github.com/MaksimShcherbakov/toxic_comments_detector_model) | Создание языковой модели, для определения токсичных комментариев | python, pandas, nltk, catboost |
